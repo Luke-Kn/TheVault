@@ -1,0 +1,44 @@
+{
+    "dashboard": {
+        "user_dashboard": "Dashboard",
+        "my_profile": "My Profile",
+        "name": "Name",
+        "email": "Email",
+        "role": "Role",
+        "quick_actions": "Quick Actions",
+        "browse_products": "Browse Products",
+        "my_orders": "My Orders",
+        "update_profile": "Update Profile"
+    },
+    "header": {
+        "account": "Account",
+        "cart": "Cart",
+        "logout": "Logout",
+        "welcome": "Welcome",
+        "delete": "Delete",
+        "confirm_changes": "Confirm changes",
+        "your_cart":"Your Cart",
+        "total": "Total",
+        "checkout":"Checkout"
+
+    },
+    "products":{
+    "all_categories": "All Categories",
+    "buy_products": "Buy Products",
+    "view_details": "View Details",
+    "search_bar":"Search products by name or description..."
+    },
+    "table":{
+        "total_amount":"Total Amount",
+        "order_date":"Order Date",
+        "details": "Details",
+        "category": "Category",
+        "description": "Description",
+        "price": "Price",
+        "quantity": "Quantity",
+        "cancel_order": "Cancel Order",
+        "back": "Back",
+        "order": "Order"
+
+    }
+}

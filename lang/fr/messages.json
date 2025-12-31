@@ -1,0 +1,42 @@
+{
+    "dashboard": {
+        "user_dashboard": "Tableau de Bord Utilisateur",
+        "my_profile": "Mon Profile",
+        "name": "Nom",
+        "email": "Courriel",
+        "role": "Rôle",
+        "quick_actions": "Actions Rapide",
+        "browse_products": "Parcourir les produits",
+        "my_orders": "Mes Commandes",
+        "update_profile": "Mettre à jour le profil"
+    },
+    "header": {
+        "account": "Compte",
+        "cart": "Panier",
+        "logout": "Déconnexion",
+        "welcome": "Bienvenue",
+        "delete": "Supprimer",
+        "confirm_changes": "Confirmer les Changements",
+        "your_cart": "Ton Panier",
+        "total": "Total",
+        "checkout": "Paiement"
+    },
+        "products":{
+    "all_categories": "Toutes Les Catégories",
+    "buy_products": "Acheter le produit",
+    "view_details": "Visioner Les détails",
+    "search_bar":"Rechercher des produits par nom ou description..."
+    },
+    "table":{
+        "total_amount":"Montant total",
+        "order_date":"Date de Commande",
+        "details": "Détails",
+        "category": "Catégory",
+        "description": "Description",
+        "price": "Prix",
+        "quantity": "Quantité",
+        "cancel_order": "Annuler la Commande",
+        "back": "Retour",
+        "order": "Commande"
+    }
+}
